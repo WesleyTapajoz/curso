@@ -1,0 +1,5 @@
+E:\Git\ClassesParciais\ParametrosNomeados\bin\Debug\ParametrosNomeados.exe.config
+E:\Git\ClassesParciais\ParametrosNomeados\bin\Debug\ParametrosNomeados.exe
+E:\Git\ClassesParciais\ParametrosNomeados\bin\Debug\ParametrosNomeados.pdb
+E:\Git\ClassesParciais\ParametrosNomeados\obj\Debug\ParametrosNomeados.exe
+E:\Git\ClassesParciais\ParametrosNomeados\obj\Debug\ParametrosNomeados.pdb

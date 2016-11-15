@@ -7,3 +7,6 @@ c:\users\wesley tapajoz\documents\visual studio 2015\Projects\ClassesParciais\Cl
 E:\Git\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.exe.config
 E:\Git\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.exe
 E:\Git\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.pdb
+E:\Git\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.exe
+E:\Git\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.pdb
+E:\Git\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.csprojResolveAssemblyReference.cache
