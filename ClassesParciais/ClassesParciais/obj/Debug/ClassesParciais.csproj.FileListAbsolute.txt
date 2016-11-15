@@ -1,0 +1,6 @@
+c:\users\wesley tapajoz\documents\visual studio 2015\Projects\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.exe.config
+c:\users\wesley tapajoz\documents\visual studio 2015\Projects\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.exe
+c:\users\wesley tapajoz\documents\visual studio 2015\Projects\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.pdb
+c:\users\wesley tapajoz\documents\visual studio 2015\Projects\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.csprojResolveAssemblyReference.cache
+c:\users\wesley tapajoz\documents\visual studio 2015\Projects\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.exe
+c:\users\wesley tapajoz\documents\visual studio 2015\Projects\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.pdb
