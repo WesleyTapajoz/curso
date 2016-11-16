@@ -1,0 +1,6 @@
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\PropriedadesAutomaticas\bin\Debug\PropriedadesAutomaticas.exe.config
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\PropriedadesAutomaticas\bin\Debug\PropriedadesAutomaticas.exe
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\PropriedadesAutomaticas\bin\Debug\PropriedadesAutomaticas.pdb
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\PropriedadesAutomaticas\obj\Debug\PropriedadesAutomaticas.csprojResolveAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\PropriedadesAutomaticas\obj\Debug\PropriedadesAutomaticas.exe
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\PropriedadesAutomaticas\obj\Debug\PropriedadesAutomaticas.pdb

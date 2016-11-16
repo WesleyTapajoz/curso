@@ -1,0 +1,6 @@
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Propriedades\obj\Debug\Propriedades.csprojResolveAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Propriedades\obj\Debug\Propriedades.pdb

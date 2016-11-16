@@ -1,0 +1,5 @@
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\bin\Debug\ClassesEstaticas.exe.config
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\bin\Debug\ClassesEstaticas.exe
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\bin\Debug\ClassesEstaticas.pdb
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\obj\Debug\ClassesEstaticas.exe
+C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\obj\Debug\ClassesEstaticas.pdb
