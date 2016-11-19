@@ -3,3 +3,9 @@ E:\Git\ClassesParciais\ParametrosNomeados\bin\Debug\ParametrosNomeados.exe
 E:\Git\ClassesParciais\ParametrosNomeados\bin\Debug\ParametrosNomeados.pdb
 E:\Git\ClassesParciais\ParametrosNomeados\obj\Debug\ParametrosNomeados.exe
 E:\Git\ClassesParciais\ParametrosNomeados\obj\Debug\ParametrosNomeados.pdb
+E:\Git\Curso\ParametrosNomeados\bin\Debug\ParametrosNomeados.exe.config
+E:\Git\Curso\ParametrosNomeados\bin\Debug\ParametrosNomeados.exe
+E:\Git\Curso\ParametrosNomeados\bin\Debug\ParametrosNomeados.pdb
+E:\Git\Curso\ParametrosNomeados\obj\Debug\ParametrosNomeados.csprojResolveAssemblyReference.cache
+E:\Git\Curso\ParametrosNomeados\obj\Debug\ParametrosNomeados.exe
+E:\Git\Curso\ParametrosNomeados\obj\Debug\ParametrosNomeados.pdb

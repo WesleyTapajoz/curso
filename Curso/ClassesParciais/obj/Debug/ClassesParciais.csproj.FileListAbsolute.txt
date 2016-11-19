@@ -10,3 +10,9 @@ E:\Git\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.pdb
 E:\Git\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.exe
 E:\Git\ClassesParciais\ClassesParciais\bin\Debug\ClassesParciais.pdb
 E:\Git\ClassesParciais\ClassesParciais\obj\Debug\ClassesParciais.csprojResolveAssemblyReference.cache
+E:\Git\Curso\ClassesParciais\bin\Debug\ClassesParciais.exe.config
+E:\Git\Curso\ClassesParciais\bin\Debug\ClassesParciais.exe
+E:\Git\Curso\ClassesParciais\bin\Debug\ClassesParciais.pdb
+E:\Git\Curso\ClassesParciais\obj\Debug\ClassesParciais.csprojResolveAssemblyReference.cache
+E:\Git\Curso\ClassesParciais\obj\Debug\ClassesParciais.exe
+E:\Git\Curso\ClassesParciais\obj\Debug\ClassesParciais.pdb

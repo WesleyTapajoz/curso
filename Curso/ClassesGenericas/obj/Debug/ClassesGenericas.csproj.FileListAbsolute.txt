@@ -1,0 +1,6 @@
+E:\Git\Curso\ClassesGenericas\bin\Debug\ClassesGenericas.exe.config
+E:\Git\Curso\ClassesGenericas\bin\Debug\ClassesGenericas.exe
+E:\Git\Curso\ClassesGenericas\bin\Debug\ClassesGenericas.pdb
+E:\Git\Curso\ClassesGenericas\obj\Debug\ClassesGenericas.csprojResolveAssemblyReference.cache
+E:\Git\Curso\ClassesGenericas\obj\Debug\ClassesGenericas.exe
+E:\Git\Curso\ClassesGenericas\obj\Debug\ClassesGenericas.pdb

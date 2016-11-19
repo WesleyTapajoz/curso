@@ -4,3 +4,9 @@ C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Object
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ObjectInitializers\obj\Debug\ObjectInitializers.exe
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ObjectInitializers\obj\Debug\ObjectInitializers.pdb
+E:\Git\Curso\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+E:\Git\Curso\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+E:\Git\Curso\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+E:\Git\Curso\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
+E:\Git\Curso\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+E:\Git\Curso\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

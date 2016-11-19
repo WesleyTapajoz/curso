@@ -3,3 +3,8 @@ C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Classe
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\bin\Debug\ClassesEstaticas.pdb
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\obj\Debug\ClassesEstaticas.exe
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesEstaticas\obj\Debug\ClassesEstaticas.pdb
+E:\Git\Curso\ClassesEstaticas\bin\Debug\ClassesEstaticas.exe.config
+E:\Git\Curso\ClassesEstaticas\bin\Debug\ClassesEstaticas.exe
+E:\Git\Curso\ClassesEstaticas\bin\Debug\ClassesEstaticas.pdb
+E:\Git\Curso\ClassesEstaticas\obj\Debug\ClassesEstaticas.exe
+E:\Git\Curso\ClassesEstaticas\obj\Debug\ClassesEstaticas.pdb

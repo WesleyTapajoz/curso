@@ -3,3 +3,8 @@ C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\Classe
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesExtensao\bin\Debug\ClassesExtensao.pdb
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesExtensao\obj\Debug\ClassesExtensao.exe
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\ClassesExtensao\obj\Debug\ClassesExtensao.pdb
+E:\Git\Curso\ClassesExtensao\bin\Debug\ClassesExtensao.exe.config
+E:\Git\Curso\ClassesExtensao\bin\Debug\ClassesExtensao.exe
+E:\Git\Curso\ClassesExtensao\bin\Debug\ClassesExtensao.pdb
+E:\Git\Curso\ClassesExtensao\obj\Debug\ClassesExtensao.exe
+E:\Git\Curso\ClassesExtensao\obj\Debug\ClassesExtensao.pdb
