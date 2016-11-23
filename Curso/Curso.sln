@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesExtensao", "ClassesE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesEstaticas", "ClassesEstaticas\ClassesEstaticas.csproj", "{EA37E5C3-1D88-428C-BE18-23879A7F9DBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropriedadesIndexadas", "PropriedadesIndexadas\PropriedadesIndexadas.csproj", "{A60BE6FE-ACD5-4C14-B7E2-6B5A07681C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreCargaMetodosOverride", "SobreCargaMetodosOverride\SobreCargaMetodosOverride.csproj", "{150013F6-FE77-466D-8814-DAE561FADDC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{EA37E5C3-1D88-428C-BE18-23879A7F9DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA37E5C3-1D88-428C-BE18-23879A7F9DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA37E5C3-1D88-428C-BE18-23879A7F9DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60BE6FE-ACD5-4C14-B7E2-6B5A07681C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60BE6FE-ACD5-4C14-B7E2-6B5A07681C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60BE6FE-ACD5-4C14-B7E2-6B5A07681C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60BE6FE-ACD5-4C14-B7E2-6B5A07681C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150013F6-FE77-466D-8814-DAE561FADDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150013F6-FE77-466D-8814-DAE561FADDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150013F6-FE77-466D-8814-DAE561FADDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150013F6-FE77-466D-8814-DAE561FADDC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

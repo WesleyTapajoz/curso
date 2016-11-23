@@ -1,0 +1,6 @@
+E:\Git\Curso\PropriedadesIndexadas\bin\Debug\PropriedadesIndexadas.exe.config
+E:\Git\Curso\PropriedadesIndexadas\bin\Debug\PropriedadesIndexadas.exe
+E:\Git\Curso\PropriedadesIndexadas\bin\Debug\PropriedadesIndexadas.pdb
+E:\Git\Curso\PropriedadesIndexadas\obj\Debug\PropriedadesIndexadas.csprojResolveAssemblyReference.cache
+E:\Git\Curso\PropriedadesIndexadas\obj\Debug\PropriedadesIndexadas.exe
+E:\Git\Curso\PropriedadesIndexadas\obj\Debug\PropriedadesIndexadas.pdb

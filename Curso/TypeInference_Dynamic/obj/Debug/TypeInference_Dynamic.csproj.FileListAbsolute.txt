@@ -4,3 +4,6 @@ C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\TypeIn
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\TypeInference_Dynamic\obj\Debug\TypeInference_Dynamic.csprojResolveAssemblyReference.cache
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\TypeInference_Dynamic\obj\Debug\TypeInference_Dynamic.exe
 C:\Users\Desenvolvedor\Documents\Visual Studio 2015\Projects\Propriedades\TypeInference_Dynamic\obj\Debug\TypeInference_Dynamic.pdb
+E:\Git\Curso\TypeInference_Dynamic\bin\Debug\TypeInference_Dynamic.exe.config
+E:\Git\Curso\TypeInference_Dynamic\obj\Debug\TypeInference_Dynamic.exe
+E:\Git\Curso\TypeInference_Dynamic\obj\Debug\TypeInference_Dynamic.pdb
